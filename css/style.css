@@ -1,0 +1,47 @@
+html {
+  scroll-behavior: smooth;
+}
+
+#intro_page {
+	font-family: 'B612', sans-serif;
+	font-size: 30px;
+	background-color: #F76C6C;
+}
+
+#contact_page {
+	/*font-family: 'Varela', sans-serif;*/
+		font-family: 'B612', sans-serif;
+
+		/*background-color: #F2F2F2;*/
+	font-size: 20px;
+	/*background-color: #F7B733*/
+	background-color: #F2F2F2;
+}
+
+#contact_page_text {
+	color: #F76C6C;
+
+}
+
+
+#project_page {
+	/*background-color: #90CCF4;*/
+	/*background-color: #4ABDAC;*/
+	background-color:  #F76C6C;s
+	font-family: 'B612', sans-serif;
+	font-size: 20px;
+}
+
+.w3-card {
+	
+	/*background-color: #F2F2F2;*/
+	/*background-color: black;*/
+
+	color: #F2F2F2;
+ 	background-color: #1A1A1A;
+}
+
+#navbar_text {
+	color: #F2F2F2;
+	background-color:  #1A1A1A;
+}
